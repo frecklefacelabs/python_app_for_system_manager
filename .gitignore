@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.eggs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+pip-wheel-metadata/
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and temporary files
+*.log
+tmp/
+.DS_Store # macOS specific
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Build artifacts
+dist/
+build/
+
+# Other
+.python-version # Version managers like pyenv
